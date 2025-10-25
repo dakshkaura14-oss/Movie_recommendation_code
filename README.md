@@ -1,4 +1,5 @@
 # Movie_recommendation_code
+## Author - Daksh Kaura
 Movie recommendations based on watched films using genres, actors, and ratings. Follows Rule Based Recommendation Model and self as a foundation for many recommendation models.
 The Movie Recommendation System is a Python-based application designed to suggest movies to users based on their previously watched films. It uses a rule-based content filtering approach, analyzing movie metadata such as genres and actors to determine user preferences.
 
